@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="538dp"
         android:layout_height="134dp"
-        android:text="Hello World!"
+        android:text="Hello Dylan!"
         android:textAlignment="center"
         android:textColor="#F44336"
         android:textSize="60sp"
